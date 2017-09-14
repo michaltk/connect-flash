@@ -1,14 +1,14 @@
 {
-  "name": "connect-flash",
+  "name": "@qb/connect-flash",
   "version": "0.1.1",
   "description": "Flash message middleware for Connect.",
   "keywords": ["connect", "express", "flash", "messages"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/connect-flash.git"
+    "url": "git://github.com/qualitybath/connect-flash.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/connect-flash/issues"
+    "url": "http://github.com/qualitybath/connect-flash/issues"
   },
   "author": {
     "name": "Jared Hanson",
